@@ -9,14 +9,7 @@ Property Finder is a real estate app that helps users search, filter, and explor
 * [Vue.js](https://v3.vuejs.org/) & [Inertia](https://inertiajs.com/) 
 * [TailwindCSS](https://tailwindcss.com/)
 
-## App Screenshots
-![Home](/app-screenshots/apartments-1.PNG)
-![Home 2](/app-screenshots/apartments-2.PNG)
-![Apartments Without Ads](/app-screenshots/apartments-without-ads.PNG)
-![Apartment Details 1](/app-screenshots/apartment-detail-1.PNG)
-![Apartment Details 2](/app-screenshots/apartment-detail-2.PNG)
-![User Ads](/app-screenshots/user-ads-without-category-zoom-out.PNG)
-![Login](/app-screenshots/login.PNG)
+
 
 
 
